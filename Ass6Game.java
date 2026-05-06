@@ -1,6 +1,3 @@
-//Geoffrey Baum
-//ID: 345184378
-
 import levels.DirectHit;
 import levels.WideEasy;
 import levels.Green3;
